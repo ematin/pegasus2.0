@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+/*хейдер*/
+header{
+    width: 100%;
+    background: #E64E20;
+}
+
+.header-container{
+    margin: 0 auto;
+    width: 1280px;
+}
+.header-position{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.logo{
+    margin-left:180px;
+    margin-top:10px;
+}
+.header-text{
+    margin-left: 20px;
+    margin-top:45px;
+}
+.header-button{
+    margin: 58px 77px 38px 90px;
+}
+
+.header-button2{
+    margin: 58px 77px 38px 90px;
+}
+
+/*1*/
+.OnePage{
+    background:url(../img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.OnePage-container{
+    margin: 0 auto;
+    width: 1280px;
+}
+.OnePage-text{
+    color:#EDEDED;
+    font-family: 'Signika';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+}
+
+h1{
+    color:#EDEDED;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight:normal;
+    font-size: 36px;
+}
+
+.OnePage-button{
+    margin-left: 475px;
+}
+
+.onepage-text2 h1{
+ margin-left: 440px;
+ margin-top:77px;
+}
+.why-we{
+    margin-left: 30px;
+    margin-top: 12px;
+}
+.tovar img{
+    margin:50px 140px;
+    margin-top: 80px;
+
+}
+.oplata img{
+    margin: 300px 340px;
+}
+.registracia img{
+    margin: 200px 340px;
+    width: 600px;
+    height: 445px;
+}
+.footer img{
+    width: 100%;
+margin-bottom: 0px;
+}
+.OnePage1{
+    background:url(../img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
